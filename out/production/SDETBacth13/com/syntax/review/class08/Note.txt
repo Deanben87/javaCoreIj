@@ -1,0 +1,8 @@
+Review 8
+this keyword - use to refer to the current object
+
+this. - used with instance variable
+      - used with method as well
+
+this() -used to call current class constructor
+
