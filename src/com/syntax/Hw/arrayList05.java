@@ -22,6 +22,5 @@ public class arrayList05 {
 
 
 
-
     }
 }
